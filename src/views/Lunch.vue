@@ -1,10 +1,10 @@
 <template>
-    <div class="reciperoastchicken">
-    <div id="roastchicken">
+    <div class="lunch & dinner">
+    <div id="lunch & dinner">
         <h1>Simple Roast Chicken</h1>
-        <h1>Time</h1>
+        <h2>Time</h2>
         <p>Total Time	1 hour 30 minutes</p>
-        <h1>Ingredients</h1>
+        <h2>Ingredients</h2>
         2–4 servings
 <li>One 2- to 3-pound farm-raised chicken</li>
 <li> salt and freshly ground black pepper</li>
@@ -51,8 +51,8 @@
     <div>
         <footer>
         <ul>
-        <li2>Chicken</li2>
-        <li2>Fish</li2>
+        <li2><router-link to="/lunch">Chicken</router-link></li2>
+        <li2><router-link to="/lunch">Fish</router-link></li2>
         </ul>
     </footer>
     </div>
@@ -60,13 +60,13 @@
     </template>
     <script>
     export default {
-    name: 'roastchicken-item',
+    name: 'lunch & dinner-item',
     data() {
     }
     }
     </script>
     <style scoped="">
-    #recipe {
+    #lunch {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
     Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     padding: 2rem;

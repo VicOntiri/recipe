@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>Who Are We</h1>
+    <h1>Who Are We?</h1>
     <p>Home cooks are our heroes—it's as simple as that. Allrecipes is a community built by and for kitchen experts: 
       The cooks who will dedicate the weekend to a perfect beef bourguignon but love the simplicity of a slow-cooker rendition, too. 
       The bakers who labor over a showstopping 9-layer cake but will just as happily doctor boxed brownies for a decadent weeknight 
@@ -9,5 +9,5 @@ Most importantly, Allrecipes connects home cooks with their greatest sources of 
  leading digital food brand, and that inspires us to do everything possible to keep our community connected. Sixty-million home
   cooks deserve no less.</p>
   </div>
-  <footer>Check me</footer>
+  <footer><router-link to="/about">Check me</router-link></footer>
 </template>
