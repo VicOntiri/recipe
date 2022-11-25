@@ -3,7 +3,9 @@
     <div id="lunch & dinner">
         <h1>Simple Roast Chicken</h1>
         <h2>Time</h2>
-        <p>Total Time	1 hour 30 minutes</p>
+        <h3>(Total Time	1 hour 30 minutes)</h3>
+        <img alt="Roast chicken" src="../assets/RoastChicken.png">
+<br>
         <h2>Ingredients</h2>
         2–4 servings
 <li>One 2- to 3-pound farm-raised chicken</li>
@@ -12,29 +14,28 @@
 <li>Unsalted butter</li>
 <li>Dijon mustard</li>
 
-<img alt="Roast chicken" src="../assets/RoastChicken.png">
-<br>
 
-<h3>Instructions</h3>
-<h2>Step 1</h2>
+
+<h2>Instructions</h2>
+<h3>Step 1</h3>
 <p>Preheat the oven to 450°F. Rinse the chicken, then dry it very well with paper towels, inside and out. 
-    The less it steams, the drier the heat, the better.</p>
-    <h2> Step 2</h2>
+    <br> The less it steams, the drier the heat, the better.</p>
+    <h3> Step 2</h3>
     <p>Salt and pepper the cavity, then truss the bird. Trussing is not difficult, and if you roast chicken often, 
         it’s a good technique to feel comfortable with. When you truss a bird, the wings and legs stay close to the body; 
         the ends of the drumsticks cover the top of the breast and keep it from drying out. 
         Trussing helps the chicken to cook evenly, and it also makes for a more beautiful roasted bird.</p>
-        <h2>Step 3</h2>
+        <h3>Step 3</h3>
         <p>Now, salt the chicken—I like to rain the salt over the bird so that it has a nice uniform coating that will result 
             in a crisp, salty, flavorful skin (about 1 Tbsp.).
              When it’s cooked, you should still be able to make out the salt baked onto the crisp skin. Season to taste with pepper.</p>
-             <h2>Step 4</h2>
+             <h3>Step 4</h3>
              <p>Place the chicken breast side up in a sauté pan or roasting pan and, when the oven is up to temperature, put the 
                 chicken in the oven. I leave it alone—I don’t baste it, I don’t add butter; you can if you wish, but I feel this 
                 creates steam, which I don’t want. Roast it until it’s done, 50 to 60 minutes. Remove it from the oven and add the
                  thyme, if using, to the pan. 
                 Baste the chicken with the pan juices and thyme and let it rest for 15 minutes on a cutting board.</p>
-                <h2>Step 5</h2>
+                <h3>Step 5</h3>
                 <p>Remove the twine. Separate the middle wing joint and eat that immediately. Remove the legs and thighs.
                      I like to take off the backbone and eat one of the oysters, the two succulent morsels of meat embedded here,
                       and give the other to the person I’m cooking with. But I take the chicken butt for myself. I could never
@@ -84,8 +85,11 @@
   list-style-type: none;
   padding: 0;
 }
-li2 {
+li2{
   display: inline-block;
-  margin: 0 10px;
+  margin: 10px;
+}
+p{
+  text-align: left;
 }
     </style>

@@ -21,9 +21,10 @@
 }
 
 nav {
-  padding: 30px;
+  padding: 10px;
   background-color: #a07405;
   background-size: 0.5px;
+
   
 }
 
