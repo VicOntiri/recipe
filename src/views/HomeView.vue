@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/recipe.png">
+    <img alt="Vue logo" src="../assets/recipe.png" >
     <HelloWorld msg="Welcome to Home cooks"/>
   </div>
 </template>
@@ -13,6 +13,8 @@ export default {
   name: 'HomeView',
   components: {
     HelloWorld
+
   }
+  
 }
 </script>

@@ -3,21 +3,25 @@
     <div id="Breakfast">
         <h1>Tea Break Pancake </h1>
         <h2>Time</h2>
-        <h3>(Time: 30 minutes)</h3>
+        <h3>Time: 30 minutes</h3>
         <img alt="pancakes" src="../assets/Pancakes.jpg">
 <br>
         <h2>Ingredients</h2>
         2–4 servings
-<li>One 2- to 3-pound farm-raised chicken</li>
-<li> salt and freshly ground black pepper</li>
-<li>2 tsp. minced thyme (optional)</li>
-<li>Unsalted butter</li>
-<li>Dijon mustard</li>
+        <ol> type"1"
+<li>1 ½ cups (195 grams) all-purpose flour</li>
+<li> 2 tablespoons sugar</li>
+<li>1 tablespoon aluminum-free baking powder</li>
+<li>1/2 teaspoon of fine sea or table salt</li>
+<li>1 ¼ cups (295 ml) milk</li>
+<li>1 large egg</li>
+<li>4 tablespoons unsalted butter</li>
+<li>1 teaspoon vanilla extract</li>
+</ol>
 
 
-
-<h2>Instructions</h2>
-<h3>Step 1</h3>
+<h2>INSTRUCTIONS</h2>
+<h3>MAKE BATTER</h3>
 <p>Preheat the oven to 450°F. Rinse the chicken, then dry it very well with paper towels, inside and out. 
     <br> The less it steams, the drier the heat, the better.</p>
     <h3> Step 2</h3>
@@ -91,5 +95,11 @@ li2{
 }
 p{
   text-align: left;
+}
+img{
+    padding: 10px ;
+    border-radius: 20px;
+    width: 450px;
+    height: 650px;
 }
     </style>
