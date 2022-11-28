@@ -3,7 +3,7 @@
     <div id="lunch & dinner">
         <h1>Simple Roast Chicken</h1>
         <h2>Time</h2>
-        <h3>(Total Time	1 hour 30 minutes)</h3>
+        <h3>(Time: 1 hour 30 minutes)</h3>
         <img alt="Roast chicken" src="../assets/RoastChicken.png">
 <br>
         <h2>Ingredients</h2>
